@@ -67,7 +67,6 @@
 		BFEB67EB2F7EFD37001579A2 /* 45.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BFEB67A22F7EFD37001579A2 /* 45.mp3 */; };
 		BFEB67EC2F7EFD37001579A2 /* 08.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BFEB677D2F7EFD37001579A2 /* 08.mp3 */; };
 		BFEB67ED2F7EFD37001579A2 /* 05.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BFEB677A2F7EFD37001579A2 /* 05.mp3 */; };
-		BFEB67EF2F7F0206001579A2 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = BFEB67EE2F7F01FF001579A2 /* Readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -132,7 +131,6 @@
 		BFEB67AE2F7EFD37001579A2 /* 57.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 57.mp3; sourceTree = "<group>"; };
 		BFEB67AF2F7EFD37001579A2 /* 58.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 58.mp3; sourceTree = "<group>"; };
 		BFEB67B02F7EFD37001579A2 /* 59.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 59.mp3; sourceTree = "<group>"; };
-		BFEB67EE2F7F01FF001579A2 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -157,7 +155,6 @@
 		BFEB66DF2F7EFB69001579A2 = {
 			isa = PBXGroup;
 			children = (
-				BFEB67EE2F7F01FF001579A2 /* Readme.md */,
 				BFEB67B12F7EFD37001579A2 /* sexy */,
 				BFEB66EA2F7EFB69001579A2 /* iSlap */,
 				BFEB66E92F7EFB69001579A2 /* Products */,
@@ -354,7 +351,6 @@
 				BFEB67E22F7EFD37001579A2 /* 58.mp3 in Resources */,
 				BFEB67E32F7EFD37001579A2 /* 06.mp3 in Resources */,
 				BFEB67E42F7EFD37001579A2 /* 25.mp3 in Resources */,
-				BFEB67EF2F7F0206001579A2 /* Readme.md in Resources */,
 				BFEB67E52F7EFD37001579A2 /* 59.mp3 in Resources */,
 				BFEB67E62F7EFD37001579A2 /* 28.mp3 in Resources */,
 				BFEB67E72F7EFD37001579A2 /* 22.mp3 in Resources */,
